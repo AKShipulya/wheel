@@ -1,5 +1,7 @@
 This is a Kotlin Multiplatform project targeting Desktop (JVM).
 
+<img width="673" height="720" alt="image" src="https://github.com/user-attachments/assets/b71b07e9-ad55-4c70-bef7-a82b0b5e19b2" />
+
 * [/composeApp](./composeApp/src) is for code that will be shared across your Compose Multiplatform applications.
   It contains several subfolders:
   - [commonMain](./composeApp/src/commonMain/kotlin) is for code that’s common for all targets.
